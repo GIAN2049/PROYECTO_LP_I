@@ -1,0 +1,9 @@
+# PROYECTO_LP_I
+Sistema de Gestión de Matriculas
+
+HERRAMIENTAS USADAS
+
+- JAVA SE
+- JDBC
+- PATRON DAO
+- BD - MYSQL
