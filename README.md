@@ -1,5 +1,6 @@
-# PROYECTO_LP_I
-Sistema de Gestión de Matriculas
+# SISTEMA_DE_GESTION_DE_MATRICULAS
+
+Proyecto del curso Lenguaje De Programacion I (LPI)
 
 HERRAMIENTAS USADAS
 
